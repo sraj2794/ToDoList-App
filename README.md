@@ -23,7 +23,7 @@ Swift 5.0+
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/sraj2794/todolist-ios.git
+git clone https://github.com/sraj2794/ToDoList-App.git
 Open the project in Xcode:
 bash
 Copy code
